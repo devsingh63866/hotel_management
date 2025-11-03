@@ -1,0 +1,21 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Django database file
+*.sqlite3
+
+# Static & media files
+/staticfiles/
+/media/
+*.log
+
+# Virtual environment folder
+venv/
+.env/
+
+# IDE/editor files
+.vscode/
+.idea/
