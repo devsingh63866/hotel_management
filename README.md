@@ -1,4 +1,4 @@
-1️⃣ Programming Language Used
+ 1️⃣ Programming Language Used
 
 1) Python (version 3.x)
 
@@ -13,7 +13,7 @@
 
 Additional Technologies:
 
- * HTML, CSS → for frontend design
+ * HTML, CSS → for frontend  design
 
 
 )
