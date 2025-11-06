@@ -3,12 +3,12 @@ from . import views
 
 urlpatterns = [
     # auth
-    path('register/', views.register_view, name='register'),
+    path('', views.register_view, name='register'),
     path('login/', views.login_view, name='login'),
     path('logout/', views.logout_view, name='logout'),
 
     # dashboard as root
-    path('', views.dashboard, name='dashboard'),
+    path('dashboard/', views.dashboard, name='dashboard'),
 
     # rooms management
     path('rooms/', views.room_list, name='room_list'),
